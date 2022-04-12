@@ -1,0 +1,18 @@
+{
+  "name": "test-mock-alchemy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "test:mocked": "jest index_mocked.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
